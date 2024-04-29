@@ -1,0 +1,8 @@
+# ninja log v5
+1	58	1714419763349309707	CMakeFiles/PharmacyC.dir/medicine.c.o	add3f585c8361e4a
+0	59	1714419763350310446	CMakeFiles/PharmacyC.dir/main.c.o	bcadd67fa94f2dde
+1	61	1714419763351765156	CMakeFiles/PharmacyC.dir/controller.c.o	5c64d86c1902d830
+1	63	1714419763353697256	CMakeFiles/PharmacyC.dir/ui.c.o	278a3360b467d945
+1	63	1714419763355567687	CMakeFiles/PharmacyC.dir/tests.c.o	a1956f5db22422fb
+1	63	1714419763355219468	CMakeFiles/PharmacyC.dir/repository.c.o	7172dbae390dc6d2
+63	112	1714419763404742954	PharmacyC	7995f169bd0eb748
